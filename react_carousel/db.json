@@ -1,0 +1,59 @@
+{
+    "restaurants": [
+      {
+        "id": 1,
+        "name": "Pizza Palace",
+        "image": "https://picsum.photos/200/300?random=1",
+        "rating": 4.5
+      },
+      {
+        "id": 2,
+        "name": "Burger Hub",
+        "image": "https://picsum.photos/200/300?random=2",
+        "rating": 4.2
+      },
+      {
+        "id": 3,
+        "name": "Sushi World",
+        "image": "https://picsum.photos/200/300?random=3",
+        "rating": 4.8
+      },
+      {
+        "id": 4,
+        "name": "Momos",
+        "image": "https://picsum.photos/200/300?random=4",
+        "rating": 4.5
+      },
+      {
+        "id": 5,
+        "name": "Pasta",
+        "image": "https://picsum.photos/200/300?random=5",
+        "rating": 4.2
+      },
+      {
+        "id": 6,
+        "name": "Idli",
+        "image": "https://picsum.photos/200/300?random=6",
+        "rating": 4.8
+      },
+      {
+        "id": 7,
+        "name": "Momos",
+        "image": "https://picsum.photos/200/300?random=7",
+        "rating": 4.5
+      },
+      {
+        "id": 8,
+        "name": "Pasta",
+        "image": "https://picsum.photos/200/300?random=8",
+        "rating": 4.2
+      },
+      {
+        "id": 9,
+        "name": "Idli",
+        "image": "https://picsum.photos/200/300?random=9",
+        "rating": 4.8
+      }
+    ]
+  }
+  
